@@ -1,0 +1,21 @@
+[submodule "dojo-7"]
+	path = dojo-7
+	url = git://github.com/dasdad/dojo-7.git
+[submodule "dojo-1"]
+	path = dojo-1
+	url = git://github.com/dasdad/dojo-1.git
+[submodule "dojo-2"]
+	path = dojo-2
+	url = git://github.com/dasdad/dojo-2.git
+[submodule "dojo-3"]
+	path = dojo-3
+	url = git://github.com/dasdad/dojo-3.git
+[submodule "dojo-4"]
+	path = dojo-4
+	url = git://github.com/dasdad/dojo-4.git
+[submodule "dojo-5"]
+	path = dojo-5
+	url = git://github.com/dasdad/dojo-5.git
+[submodule "dojo-6"]
+	path = dojo-6
+	url = git://github.com/dasdad/dojo-6.git
