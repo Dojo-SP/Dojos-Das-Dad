@@ -19,3 +19,6 @@
 [submodule "dojo-6"]
 	path = dojo-6
 	url = git://github.com/dasdad/dojo-6.git
+[submodule "dojo-8"]
+	path = dojo-8
+	url = git://github.com/dasdad/dojo-8.git
